@@ -1,0 +1,91 @@
+#
+adic_DAC3R OPAMP_without_MIMCAP layout
+I46
+#
+adic_DAC3R RString_Ideal_FoldedLayout layout
+I9
+#
+adic_DAC3R Analog_Switch_Multilpexer layout
+I2
+#
+adic_DAC3R Control_Logic layout
+I1
+#ISCELL
+umc13mmrf M2_M1 symbolic
+I73
+I70
+I61
+I57
+I51
+I47
+I43
+I40
+I39
+I38
+I37
+I22
+I20
+I18
+I16
+I14
+I12
+I10
+I8
+I7
+I6
+I5
+I32
+I30
+I28
+I25
+I3
+#ISCELL
+umc13mmrf M3_M2 symbolic
+I74
+I71
+I68
+I65
+I62
+I58
+I52
+I48
+I45
+I44
+I42
+I41
+I35
+I33
+I23
+I21
+I19
+I17
+I15
+I13
+I11
+I31
+I29
+I26
+I4
+#ISCELL
+umc13mmrf M4_M3 symbolic
+I75
+I72
+I69
+I66
+I63
+I60
+I59
+I55
+I53
+I49
+I36
+I34
+I24
+I27
+#ISCELL
+umc13mmrf M5_M4 symbolic
+I67
+I64
+I56
+I54
+I50

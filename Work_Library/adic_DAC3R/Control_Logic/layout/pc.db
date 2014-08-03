@@ -1,0 +1,85 @@
+#
+adic_DAC3R Transmission_Gate layout
+I10
+#
+adic_DAC3R Inverter layout
+I13
+#
+adic_DAC3R D_FlipFlop layout
+I3
+I2
+I1
+#ISCELL
+umc13mmrf M2_M1 symbolic
+I50
+I65
+I64
+I15
+I63
+I55
+I52
+I43
+I47
+I37
+I36
+I58
+I45
+I16
+I66
+I35
+I24
+I27
+I20
+I21
+I32
+I17
+I11
+I8
+I7
+I60
+I4
+#ISCELL
+umc13mmrf M3_M2 symbolic
+I51
+I62
+I61
+I54
+I53
+I44
+I40
+I41
+I38
+I57
+I46
+I49
+I30
+I28
+I33
+I25
+I67
+I22
+I18
+I48
+I12
+I14
+I9
+I6
+I5
+#ISCELL
+umc13mmrf M4_M3 symbolic
+I70
+I56
+I42
+I39
+I31
+I29
+I34
+I26
+I23
+I19
+I68
+#ISCELL
+umc13mmrf M5_M4 symbolic
+I71
+I69
+I59

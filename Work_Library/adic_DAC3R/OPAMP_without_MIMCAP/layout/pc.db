@@ -1,0 +1,142 @@
+#
+umc13mmrf PTAP symbolic
+I32
+I33
+I14
+I16
+#
+umc13mmrf NTAP symbolic
+I12
+I11
+I10
+I9
+#
+umc13mmrf RNHR1000_MML130E layout
+I8
+I7
+#
+umc13mmrf N_12_HSL130E layout
+I4
+I112
+I13
+I5
+I2
+#
+umc13mmrf P_12_HSL130E layout
+I3
+I1
+I6
+#ISCELL
+umc13mmrf M2_M1 symbolic
+I37
+I41
+I42
+I40
+I113
+I114
+I64
+I44
+I18
+I86
+I85
+I82
+I81
+I80
+I24
+I62
+I61
+I20
+I49
+I25
+I79
+I58
+I34
+I73
+I69
+I68
+I67
+I63
+I47
+I60
+I76
+I56
+I52
+I50
+I45
+I91
+I115
+I116
+I92
+I38
+I106
+I31
+I30
+I29
+I28
+I27
+I17
+I15
+I19
+I117
+I46
+I21
+I48
+#ISCELL
+umc13mmrf M3_M2 symbolic
+I97
+I36
+I87
+I88
+I84
+I83
+I23
+I51
+I78
+I35
+I74
+I70
+I43
+I66
+I77
+I93
+I96
+I22
+I107
+#ISCELL
+umc13mmrf M1_POLY symbolic
+I26
+I75
+I72
+I71
+I54
+I39
+#ISCELL
+umc13mmrf M4_M3 symbolic
+I98
+I90
+I89
+I53
+I59
+I65
+I94
+I95
+#ISCELL
+umc13mmrf M5_M4 symbolic
+I99
+I55
+#ISCELL
+umc13mmrf M6_M5 symbolic
+I100
+I57
+#ISCELL
+umc13mmrf L2_M8 symbolic
+I108
+I102
+#ISCELL
+umc13mmrf M8_M7 symbolic
+I109
+I103
+#ISCELL
+umc13mmrf M7_M6 symbolic
+I105
+I104

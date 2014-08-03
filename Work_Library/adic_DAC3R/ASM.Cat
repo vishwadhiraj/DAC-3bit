@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+adic_DAC3R/Analog_Switch_Multilpexer type="cell"
+adic_DAC3R/Analog_Switch_Multiplexer_test type="cell"
+adic_DAC3R/Analog_Switch_Multiplexer_test2 type="cell"
+keepEmptyCategory type="unknown"

@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+adic_DAC3R/DAC_MaxMismatch_test type="cell"
+adic_DAC3R/DAC_MinMismatch_test type="cell"
+adic_DAC3R/DAC_NoMismatch_test type="cell"
+keepEmptyCategory type="unknown"

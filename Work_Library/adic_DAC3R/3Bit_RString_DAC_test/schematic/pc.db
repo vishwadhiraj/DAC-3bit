@@ -1,0 +1,33 @@
+#
+umc13mmrf MIMCAPS_MML130E symbol
+C0
+#
+adic_DAC3R 3Bit_RString_DAC symbol
+I14
+#
+analogLib vpulse symbol
+V7
+V6
+V5
+V4
+#
+analogLib vdc symbol
+V10
+V3
+V2
+V0
+#ISCELL
+analogLib vdd symbol
+I2
+I1
+#ISCELL
+analogLib gnd symbol
+I41
+I38
+I37
+I36
+I33
+I34
+I40
+I39
+I35

@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+adic_DAC3R/D_FF_test type="cell"
+adic_DAC3R/D_FlipFlop type="cell"
+keepEmptyCategory type="unknown"

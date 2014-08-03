@@ -1,0 +1,31 @@
+#
+umc13mmrf MIMCAPS_MML130E symbol
+C0
+#
+umc13mmrf RNHR1000_MML130E symbol
+R0
+R1
+#
+umc13mmrf N_12_HSL130E symbol
+M2
+M1
+M8
+M7
+M5
+#
+umc13mmrf P_12_HSL130E symbol
+M6
+M4
+M3
+M9
+#ISCELL
+basic opin symbol
+PIN0
+#ISCELL
+basic ipin symbol
+PIN1
+PIN2
+#ISCELL
+basic iopin symbolr
+PIN5
+PIN3

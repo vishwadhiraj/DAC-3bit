@@ -1,0 +1,29 @@
+#
+adic_DAC3R Inverter symbol
+I16
+#
+adic_DAC3R Transmission_Gate symbol
+I13
+#
+adic_DAC3R D_FlipFlop symbol
+I9
+I10
+I11
+#ISCELL
+basic ipin symbol
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN10
+PIN9
+PIN7
+PIN6
+PIN5
+PIN4
+#ISCELL
+basic iopin symbolr
+PIN8
+PIN11

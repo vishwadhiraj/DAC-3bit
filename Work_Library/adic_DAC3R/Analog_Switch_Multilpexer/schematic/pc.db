@@ -1,0 +1,39 @@
+#
+adic_DAC3R Transmission_Gate symbol
+I13
+I12
+I11
+I10
+I9
+I8
+I7
+I6
+I5
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN19
+PIN20
+PIN15
+PIN16
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+PIN18
+PIN17
+#ISCELL
+basic opin symbol
+PIN8
+#ISCELL
+basic iopin symbolr
+PIN9
+PIN10

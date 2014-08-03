@@ -1,0 +1,26 @@
+#
+adic_DAC3R OPAMP symbol
+I9
+#
+analogLib vpulse symbol
+V2
+#
+analogLib cap symbol
+C0
+#
+analogLib vdc symbol
+V1
+V0
+#ISCELL
+analogLib gnda symbol
+I3
+I2
+I1
+#ISCELL
+analogLib gnd symbol
+I7
+I4
+#ISCELL
+analogLib vdd symbol
+I5
+I6

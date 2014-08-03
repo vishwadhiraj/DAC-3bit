@@ -1,0 +1,19 @@
+#
+analogLib vdc symbol
+V1
+V0
+#
+adic_DAC3R Inverter symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I6
+I2
+I1
+#ISCELL
+analogLib vdd symbol
+I5
+I4
+#ISCELL
+basic opin symbol
+PIN0

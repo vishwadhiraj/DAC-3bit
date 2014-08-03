@@ -1,0 +1,27 @@
+#
+adic_DAC3R RString_Ideal_FoldedLayout symbol
+I18
+#
+adic_DAC3R Analog_Switch_Multilpexer symbol
+I3
+#
+adic_DAC3R OPAMP symbol
+I2
+#
+adic_DAC3R Control_Logic symbol
+I0
+#ISCELL
+basic ipin symbol
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN6
+#ISCELL
+basic iopin symbolr
+PIN8
+PIN7

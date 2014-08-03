@@ -1,0 +1,28 @@
+#
+analogLib vsin symbol
+V2
+#
+analogLib vdc symbol
+V5
+V1
+V0
+#
+analogLib cap symbol
+C0
+#
+adic_DAC3R OPAMP symbol
+I0
+#ISCELL
+analogLib gnda symbol
+I4
+I3
+I2
+I1
+#ISCELL
+analogLib gnd symbol
+I8
+I5
+#ISCELL
+analogLib vdd symbol
+I7
+I6

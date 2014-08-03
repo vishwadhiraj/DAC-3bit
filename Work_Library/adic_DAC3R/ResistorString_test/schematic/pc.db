@@ -1,0 +1,26 @@
+#
+analogLib vdc symbol
+V2
+V1
+V0
+#
+adic_DAC3R RString_Ideal_LinearLayout symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I4
+I3
+I2
+#ISCELL
+basic opin symbol
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0

@@ -1,0 +1,50 @@
+#
+adic_DAC3R Analog_Switch_Multilpexer symbol
+I28
+#
+adic_DAC3R Control_Logic symbol
+I26
+#
+adic_DAC3R RString_MaxMismatch_FoldedLayout symbol
+I25
+#
+adic_DAC3R OPAMP symbol
+I14
+#
+analogLib vdc symbol
+V3
+Vrefp
+Vrefn
+VDD
+#
+analogLib vpulse symbol
+VB0
+VB1
+VB2
+Vclock
+#
+analogLib cap symbol
+CL
+#ISCELL
+analogLib gnd symbol
+I33
+I34
+I32
+I11
+I10
+I9
+I7
+I6
+I5
+I4
+#ISCELL
+analogLib vdd symbol
+I29
+I30
+I31
+I35
+I8
+#ISCELL
+analogLib gnda symbol
+I18
+I19

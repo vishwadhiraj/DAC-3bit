@@ -1,0 +1,33 @@
+#
+umc13mmrf RNHR1000_MML130E symbol
+R11
+R10
+R12
+R0
+R1
+R2
+R3
+R4
+R6
+R7
+R8
+R13
+R9
+R14
+#ISCELL
+basic ipin symbol
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+#ISCELL
+basic iopin symbolr
+PIN10

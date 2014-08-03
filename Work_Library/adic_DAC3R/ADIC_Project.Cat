@@ -1,0 +1,7 @@
+TDMCHECKPOINT="1.0"
+adic_DAC3R/3Bit_RString_DAC type="cell"
+adic_DAC3R/3Bit_RString_DAC_test type="cell"
+adic_DAC3R/3Bit_RString_DAC_without_MIMCAP type="cell"
+adic_DAC3R/3bit_RString_DAC_without_Opamp type="cell"
+adic_DAC3R/3bit_ResString_DAC_test1 type="cell"
+keepEmptyCategory type="unknown"

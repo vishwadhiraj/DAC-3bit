@@ -1,0 +1,51 @@
+#
+adic_DAC3R OPAMP symbol
+I57
+#
+adic_DAC3R RString_Ideal_FoldedLayout symbol
+I55
+#
+umc13mmrf MIMCAPS_MML130E symbol
+C0
+#
+adic_DAC3R Analog_Switch_Multilpexer symbol
+I30
+#
+adic_DAC3R Control_Logic symbol
+I13
+#
+analogLib vdc symbol
+V3
+V4
+Vrefp
+Vrefn
+VDD
+#
+analogLib vpulse symbol
+VB0
+VB1
+VB2
+Vclock
+#ISCELL
+analogLib gnd symbol
+I34
+I45
+I32
+I11
+I10
+I21
+I7
+I6
+I5
+I4
+#ISCELL
+analogLib vdd symbol
+I44
+I31
+I42
+I33
+I8
+#ISCELL
+analogLib gnda symbol
+I20
+I19

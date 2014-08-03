@@ -1,0 +1,15 @@
+#
+umc13mmrf PTAP symbolic
+I4
+#
+umc13mmrf NTAP symbolic
+I2
+#
+umc13mmrf N_12_HSL130E layout
+I3
+#
+umc13mmrf P_12_HSL130E layout
+I1
+#ISCELL
+umc13mmrf M1_POLY symbolic
+I5

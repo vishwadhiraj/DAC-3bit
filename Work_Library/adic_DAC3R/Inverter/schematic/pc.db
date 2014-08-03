@@ -1,0 +1,16 @@
+#
+umc13mmrf N_12_HSL130E symbol
+NM0
+#
+umc13mmrf P_12_HSL130E symbol
+PM0
+#ISCELL
+basic ipin symbol
+PIN0
+#ISCELL
+basic opin symbol
+PIN1
+#ISCELL
+basic iopin symbolr
+PIN3
+PIN4

@@ -1,0 +1,56 @@
+#
+# OPTION COMMAND FILE created by Cadence Extraction QRC Version 8.1.4-p002
+#
+capacitance \
+	 -decoupling_factor 1.0 \
+	 -ground_net "gnd"
+extract \
+	 -selection "all" \
+	 -type "rc_coupled"
+extraction_setup \
+	 -array_vias_spacing auto \
+	 -max_fracture_length infinite \
+	 -max_fracture_length_unit "MICRONS" \
+	 -max_via_array_size \
+		"auto" \
+	 -net_name_space "SCHEMATIC"
+filter_cap \
+	 -exclude_self_cap true
+filter_coupling_cap \
+	 -coupling_cap_threshold_absolute 0.01e-15 \
+	 -coupling_cap_threshold_relative 1
+filter_res \
+	 -min_res 0.001
+global_nets \
+	 -import_from_lvs true
+input_db -type assura \
+	 -design_cell_name "Analog_Switch_Multilpexer layout adic_DAC3R" \
+	 -directory_name "/home/aic11/Lab11/Assura_LVS" \
+	 -format "DFII" \
+	 -library_definitions_file "/home/aic11/Lab11/cds.lib" \
+	 -run_name "Multiplexer"
+output_db -type extracted_view \
+	 -cap_property_name "c" \
+	 -enable_cellview_check false \
+	 -include_cap_model "true" \
+	 -include_parasitic_cap_model "false" \
+	 -include_parasitic_res_model "false" \
+	 -include_parasitic_res_width false \
+	 -include_parasitic_res_width_drawn false \
+	 -include_res_model "true" \
+	 -res_property_name "r" \
+	 -view_name "av_extracted"
+output_setup \
+	 -temporary_directory_name "Multiplexer"
+process_technology \
+	 -technology_corner \
+		"LVS_2.3_P8" \
+	 -technology_library_file "/home/aic11/Lab11/assura_tech.lib" \
+	 -technology_name "assura_tech" \
+	 -temperature \
+		27
+extract \
+	 -selection "nets_file /home/aic11/Lab11/Assura_LVS/rcx.RCX.nets" \
+	 -type "c_only_coupled"
+
+

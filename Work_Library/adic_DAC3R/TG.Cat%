@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+adic_DAC3R/Transmission_Gate type="cell"
+adic_DAC3R/Transmission_Gate_test type="cell"
+keepEmptyCategory type="unknown"
